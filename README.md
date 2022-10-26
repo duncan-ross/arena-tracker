@@ -58,7 +58,3 @@ Check the application logs if the tracker stops sending messages.
 
 ### 8. Add a credit card to your profile to get extra free hours for forever free 24/7 hosting.
 ![ScreenShot](assets/add-credit-card.png)
-
-### 9. Keep only one application and one resource at a time, otherwise you will be charged...
-
-[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/iprobedroid)
